@@ -10,7 +10,7 @@ on:
 
 env:
   DOTNET_VERSION: '5.0.x'
-  TEST_PATH: ExamTests/ExamSquareTests.csproj
+  TEST_PATH: ExamTests1/ExamStudentTests.csproj
 
 jobs:
   build-and-test:
